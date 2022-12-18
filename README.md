@@ -1,3 +1,9 @@
 # Kuka_with_Sucker
 This project is for a tabletop pick and place demo, where a sucker is implemented.
-Link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19lgYv7jS4XGH3Ql9KRmigmkRB3yJgmCz?usp=sharing)  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19lgYv7jS4XGH3Ql9KRmigmkRB3yJgmCz?usp=sharing)  
+
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/yding25/pic_share/master/pybullet.jpeg" height="300" />
+</p>
