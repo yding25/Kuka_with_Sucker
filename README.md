@@ -16,3 +16,7 @@ This project is for a tabletop pick and place demo, where a sucker is implemente
 <p float="left">
   <img src="https://raw.githubusercontent.com/yding25/pic_share/master/utensil.jpeg" height="300" />
 </p>
+
+
+
+This repo is also one section in [BestMan Project](https://yding25.github.io/BestMan/).
